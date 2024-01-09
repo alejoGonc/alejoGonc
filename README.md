@@ -7,7 +7,7 @@ Mas abajo van a encontrar algunos repositorios con teoría, ejercicios o proyect
 Los repositorios son variados y contienen cosas como cursos, proyectos freelance, material teórico que voy encontrando o trabajos de la universidad.
 Espero que les sirva!
 
-[Este repositorio aún esta en proceso :)]
+[ Este repositorio aún esta en proceso :) ]
 
 <!--
 **alejoGonc/alejoGonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
