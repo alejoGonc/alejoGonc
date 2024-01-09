@@ -1,5 +1,5 @@
 ### Sobre mi:
-Hola! Soy Alejo 👋 Bienvenidos a mi github.
+Hola! Soy Alejo 👋 Bienvenidos a mi perfil de Github.
 
 Actualmente estoy trabajando como Jr Analyst en IPG Mediabrands y cursando la Licenciatura en Ciencias de Datos en la Universidad de Buenos Aires (UBA)
 
@@ -7,7 +7,7 @@ Mas abajo van a encontrar algunos repositorios con teoría, ejercicios o proyect
 Los repositorios son variados y contienen cosas como cursos, proyectos freelance, material teórico que voy encontrando o trabajos de la universidad.
 Espero que les sirva!
 
-:)
+[Este repositorio aún esta en proceso :)]
 
 <!--
 **alejoGonc/alejoGonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
