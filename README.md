@@ -1,7 +1,7 @@
 ### Sobre mi:
 Hola! Soy Alejo 👋 Bienvenidos a mi perfil de Github.
 
-Actualmente estoy trabajando como Jr Analyst en IPG Mediabrands y cursando la Licenciatura en Ciencias de Datos en la Universidad de Buenos Aires (UBA)
+Actualmente estoy trabajando como Consumer Insights Coordinator y cursando la Licenciatura en Ciencias de Datos en la Universidad de Buenos Aires (UBA)
 
 Mas abajo van a encontrar algunos repositorios con teoría, ejercicios o proyectos de distintas herramientas relacionadas al mundo de Data como SQL, Python, git, etc.
 Los repositorios son variados y contienen cosas como cursos, proyectos freelance, material teórico que voy encontrando o trabajos de la universidad.
